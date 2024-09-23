@@ -1,1 +1,2 @@
 this is file2
+Some new content in file2
